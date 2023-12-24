@@ -1,2 +1,0 @@
-package question_2;
-
